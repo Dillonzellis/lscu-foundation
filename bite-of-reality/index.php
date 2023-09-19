@@ -27,6 +27,7 @@
   <link rel="stylesheet" href="../../js/tabs/assets/css/responsive-tabs.css" />
   <link rel="stylesheet" type="text/css" href="../../js/tabs/assets/css/responsive-tabs.css">
   <link rel="stylesheet" href="../../css/et-line-font/et-line-font.css">
+  <link rel="stylesheet" href="./styles.css">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-12265204-1"></script>
