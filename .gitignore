@@ -1,0 +1,10 @@
+docs/
+books/
+**/*.psd
+fonts/
+**/*.mov
+libs/
+lesson-plans/
+meter/
+tool-kit/
+dist/
