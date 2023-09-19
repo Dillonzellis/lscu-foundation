@@ -78,7 +78,7 @@
     <!-- page here -->
     <main>
       <section>
-        <div class="tw-relative"><img alt="hero" loading="lazy" width="2121" height="1413" decoding="async" data-nimg="1" class="tw-max-h-[500px] tw-object-cover tw-brightness-50" style="color:transparent" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero.ad5f577a.jpg&amp;w=3840&amp;q=75 1x" src="./imgs/hero.jpg">
+        <div class="tw-relative"><img alt="hero" loading="lazy" width="2121" height="1413" decoding="async" data-nimg="1" class="tw-max-h-[500px] tw-object-cover tw-brightness-50" style="color:transparent" src="./imgs/hero.jpg">
           <div class="tw-absolute tw-left-1/2 tw-top-1/2 tw--translate-x-1/2 tw--translate-y-1/2 lg:tw-w-[950px]">
             <div class="tw-flex tw-flex-col tw-items-center tw-rounded-lg tw-shadow-lg md:tw-gap-4 md:tw-bg-white md:tw-p-4 lg:tw-flex-row">
               <div><img alt="logo" loading="lazy" width="350" height="219" decoding="async" class="tw-w-full- tw-drop-shadow-md" style="color:transparent" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbiteofreality-logo.c75f9017.png&amp;w=750&amp;q=75"></div>
