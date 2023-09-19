@@ -169,7 +169,7 @@
       <section class="chapter tw-py-8">
         <div class="tw-w-full tw-mx-auto tw-max-w-[1100px] tw-px-10">
           <div class="tw-grid tw-items-center lg:tw-grid-cols-2 lg:tw-gap-4">
-            <div><img alt="" loading="lazy" width="416" height="312" decoding="async" data-nimg="1" class="tw-mx-auto tw-mb-8 tw-rounded-lg tw-object-fill tw-shadow-lg tw-shadow-zinc-800/30 lg:tw-m-[unset]" style="color:transparent" src="bite-reality.jpg"></div>
+            <div><img alt="" loading="lazy" width="416" height="312" decoding="async" data-nimg="1" class="tw-mx-auto tw-mb-8 tw-rounded-lg tw-object-fill tw-shadow-lg tw-shadow-zinc-800/30 lg:tw-m-[unset]" style="color:transparent" src="./imgs/bite-reality.jpg"></div>
             <div>
               <div class="tw-pb-8">
                 <div class="tw-relative tw-rounded-md tw-py-4 tw-pl-4 tw-font-medium tw-text-white tw-shadow-lg tw-shadow-zinc-800/30 before:tw-absolute before:tw-top-[10%] before:tw-z-[-10] before:tw-h-full before:tw-w-full before:tw-border-4 before:tw-border-brandingGreen-400 before:tw-content-[''] md:tw-mb-12 md:tw-w-[25ch] md:tw-px-4 md:tw-py-6 md:tw-pr-16 md:tw-text-4xl tw-mb-6 tw-w-full tw-bg-brandingPurple-400 tw-text-xl">How can my chapter or credit union<!-- --> <span class="tw-font-bold tw-underline tw-decoration-brandingGreen-400">participate?</span></div>
