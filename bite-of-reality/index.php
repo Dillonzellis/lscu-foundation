@@ -81,7 +81,7 @@
         <div class="tw-relative"><img alt="hero" loading="lazy" width="2121" height="1413" decoding="async" data-nimg="1" class="tw-max-h-[500px] tw-object-cover tw-brightness-50" style="color:transparent" src="./imgs/hero.jpg">
           <div class="tw-absolute tw-left-1/2 tw-top-1/2 tw--translate-x-1/2 tw--translate-y-1/2 lg:tw-w-[950px]">
             <div class="tw-flex tw-flex-col tw-items-center tw-rounded-lg tw-shadow-lg md:tw-gap-4 md:tw-bg-white md:tw-p-4 lg:tw-flex-row">
-              <div><img alt="logo" loading="lazy" width="350" height="219" decoding="async" class="tw-w-full- tw-drop-shadow-md" style="color:transparent" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbiteofreality-logo.c75f9017.png&amp;w=750&amp;q=75"></div>
+              <div><img alt="logo" loading="lazy" width="350" height="219" decoding="async" class="tw-w-full- tw-drop-shadow-md" style="color:transparent" src="./imgs/biteofreality-logo.png"></div>
               <div class="tw-space-y-2 lg:tw-space-y-4">
                 <div class="tw-hidden tw-font-serif tw-text-2xl tw-font-bold tw-capitalize tw-text-brandingPurple-400 md:tw-block md:tw-text-3xl lg:tw-text-7xl">bite of reality®</div>
                 <div class="tw-hidden tw-font-medium tw-italic md:tw-block lg:tw-text-lg">Credit unions nationwide are working hard to bring financial education to their communities!</div>
@@ -93,7 +93,7 @@
       <section class="intro tw-relative tw-py-8">
         <div class="tw-w-full tw-mx-auto tw-max-w-[1100px] tw-px-10">
           <div class="tw-grid lg:tw-grid-cols-2">
-            <div class="tw-relative tw-pb-8 lg:tw-pb-[unset]"><img alt="intro image" loading="lazy" width="400" height="450" decoding="async" data-nimg="1" class="tw-relative tw-z-30 tw-mx-auto tw-rounded-md tw-bg-brandingGreen-400 tw-shadow-md tw-shadow-zinc-800/30 lg:tw-m-[unset]" style="color:transparent" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbite-into-no-bg.8b968f12.png&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbite-into-no-bg.8b968f12.png&amp;w=828&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbite-into-no-bg.8b968f12.png&amp;w=828&amp;q=75">
+            <div class="tw-relative tw-pb-8 lg:tw-pb-[unset]"><img alt="intro image" loading="lazy" width="400" height="450" decoding="async" data-nimg="1" class="tw-relative tw-z-30 tw-mx-auto tw-rounded-md tw-bg-brandingGreen-400 tw-shadow-md tw-shadow-zinc-800/30 lg:tw-m-[unset]" style="color:transparent" src="./imgs/bite-into-no-bg.png">
               <div class="tw-absolute tw-left-[23px] tw-top-[23px] tw-z-20 tw-hidden tw-h-[450px] tw-w-[400px] tw-rounded-md tw-border-4 tw-border-brandingGreen-400 tw-drop-shadow-lg lg:tw-block"></div>
             </div>
             <div class="tw-space-y-2">
@@ -114,21 +114,21 @@
         <div class="tw-w-full tw-mx-auto tw-max-w-[1100px] tw-px-10">
           <div class="tw-grid tw-gap-8 md:tw-grid-cols-3">
             <div class="tw-group tw-flex tw-flex-col tw-items-center tw-justify-center tw-gap-6 tw-rounded-lg tw-bg-brandingBlue-400 tw-px-4 tw-py-12 tw-shadow-lg tw-shadow-zinc-800/30 tw-transition hover:tw-translate-y-[-10px] hover:tw-bg-brandingGreen-400">
-              <div class="tw-flex tw-h-32 tw-w-32 tw-items-center tw-justify-center tw-rounded-full tw-border-4 tw-border-brandingGreen-400 tw-bg-white group-hover:tw-border-brandingPurple-400"><img alt="" loading="lazy" width="97" height="106" decoding="async" data-nimg="1" class="tw-h-20 tw-w-20 tw-rounded-full tw-object-contain" style="color:transparent" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsingle-bg.a9efaaeb.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsingle-bg.a9efaaeb.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsingle-bg.a9efaaeb.png&amp;w=256&amp;q=75"></div>
+              <div class="tw-flex tw-h-32 tw-w-32 tw-items-center tw-justify-center tw-rounded-full tw-border-4 tw-border-brandingGreen-400 tw-bg-white group-hover:tw-border-brandingPurple-400"><img alt="" loading="lazy" width="97" height="106" decoding="async" data-nimg="1" class="tw-h-20 tw-w-20 tw-rounded-full tw-object-contain" style="color:transparent" src="./imgs/single-bg.png"></div>
               <div class="tw-text-center tw-text-white group-hover:tw-text-zinc-800">
                 <div class="tw-pb-4 tw-text-6xl tw-font-semibold tw-underline tw-decoration-brandingGreen-400 group-hover:tw-decoration-brandingPurple-400">23</div>
                 <div class="tw-text-xl tw-capitalize">Events held in July</div>
               </div>
             </div>
             <div class="tw-group tw-flex tw-flex-col tw-items-center tw-justify-center tw-gap-6 tw-rounded-lg tw-bg-brandingBlue-400 tw-px-4 tw-py-12 tw-shadow-lg tw-shadow-zinc-800/30 tw-transition hover:tw-translate-y-[-10px] hover:tw-bg-brandingGreen-400">
-              <div class="tw-flex tw-h-32 tw-w-32 tw-items-center tw-justify-center tw-rounded-full tw-border-4 tw-border-brandingGreen-400 tw-bg-white group-hover:tw-border-brandingPurple-400"><img alt="" loading="lazy" width="206" height="146" decoding="async" data-nimg="1" class="tw-h-20 tw-w-20 tw-rounded-full tw-object-contain" style="color:transparent" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fthree-bg.e6a97c08.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fthree-bg.e6a97c08.png&amp;w=640&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fthree-bg.e6a97c08.png&amp;w=640&amp;q=75"></div>
+              <div class="tw-flex tw-h-32 tw-w-32 tw-items-center tw-justify-center tw-rounded-full tw-border-4 tw-border-brandingGreen-400 tw-bg-white group-hover:tw-border-brandingPurple-400"><img alt="" loading="lazy" width="206" height="146" decoding="async" data-nimg="1" class="tw-h-20 tw-w-20 tw-rounded-full tw-object-contain" style="color:transparent" src="./imgs/three-bg.png"></div>
               <div class="tw-text-center tw-text-white group-hover:tw-text-zinc-800">
                 <div class="tw-pb-4 tw-text-6xl tw-font-semibold tw-underline tw-decoration-brandingGreen-400 group-hover:tw-decoration-brandingPurple-400">694</div>
                 <div class="tw-text-xl tw-capitalize">students reached in July</div>
               </div>
             </div>
             <div class="tw-group tw-flex tw-flex-col tw-items-center tw-justify-center tw-gap-6 tw-rounded-lg tw-bg-brandingBlue-400 tw-px-4 tw-py-12 tw-shadow-lg tw-shadow-zinc-800/30 tw-transition hover:tw-translate-y-[-10px] hover:tw-bg-brandingGreen-400">
-              <div class="tw-flex tw-h-32 tw-w-32 tw-items-center tw-justify-center tw-rounded-full tw-border-4 tw-border-brandingGreen-400 tw-bg-white group-hover:tw-border-brandingPurple-400"><img alt="" loading="lazy" width="318" height="228" decoding="async" data-nimg="1" class="tw-h-20 tw-w-20 tw-rounded-full tw-object-contain" style="color:transparent" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmultiple-bg.614f787e.png&amp;w=384&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmultiple-bg.614f787e.png&amp;w=640&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmultiple-bg.614f787e.png&amp;w=640&amp;q=75"></div>
+              <div class="tw-flex tw-h-32 tw-w-32 tw-items-center tw-justify-center tw-rounded-full tw-border-4 tw-border-brandingGreen-400 tw-bg-white group-hover:tw-border-brandingPurple-400"><img alt="" loading="lazy" width="318" height="228" decoding="async" data-nimg="1" class="tw-h-20 tw-w-20 tw-rounded-full tw-object-contain" style="color:transparent" src="./imgs/multiple-bg.png"></div>
               <div class="tw-text-center tw-text-white group-hover:tw-text-zinc-800">
                 <div class="tw-pb-4 tw-text-6xl tw-font-semibold tw-underline tw-decoration-brandingGreen-400 group-hover:tw-decoration-brandingPurple-400">36,052</div>
                 <div class="tw-text-xl tw-capitalize">students reached in 2023</div>
