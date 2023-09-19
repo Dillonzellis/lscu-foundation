@@ -1,3 +1,7 @@
+html {
+  font-size: 16px;
+}
+
 @font-face {
   font-family: __Poppins_395ef7;
   font-style: normal;
