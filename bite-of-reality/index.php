@@ -16,6 +16,11 @@
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+
   <link rel="stylesheet" media="screen" href="../../js/bootstrap/bootstrap.min.css" type="text/css" />
   <link rel="stylesheet" href="../../js/megamenu/stylesheets/screen.css" type="text/css" />
   <link rel="stylesheet" href="../../css/default.css" type="text/css" />
