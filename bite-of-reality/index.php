@@ -197,8 +197,8 @@
           <div class="tw-w-full tw-mx-auto tw-max-w-[1100px] tw-px-10 tw-text-white">
             <div class="tw-text-3xl tw-font-medium tw-underline tw-decoration-brandingGreen-400">Event Resources</div>
             <ul class="tw-list-inside tw-list-disc tw-pt-4">
-              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="">Facilitator Guide</a></li>
-              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="">Merchant Directions</a></li>
+              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="./docs/facilitatorguide.pdf">Facilitator Guide</a></li>
+              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="./docs/merchantsheets.pdf">Merchant Directions</a></li>
               <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="">request event code</a></li>
             </ul>
           </div>
@@ -227,5 +227,3 @@
   <script src="../../js/tabs/assets/js/responsive-tabs.min.js" type="text/javascript"></script>
   <script src="../../js/scripts/functions.js" type="text/javascript"></script>
 </body>
-
-</html>
