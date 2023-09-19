@@ -1077,3 +1077,11 @@ video {
     line-height: 1.75rem;
   }
 }
+
+.tw-font-serif {
+  font-family: "Dancing Script", cursive;
+}
+
+.tw-font-sans {
+  font-family: "Poppins", sans-serif;
+}
