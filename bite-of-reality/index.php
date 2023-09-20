@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>LSCU | Community Development</title>
+  <title>LSCU | Bite of Reality</title>
   <meta charset="utf-8">
   <meta name="keywords" content="" />
   <meta name="author" content="">
@@ -93,7 +93,7 @@
       <section class="intro tw-relative tw-py-8">
         <div class="tw-w-full tw-mx-auto tw-max-w-[1100px] tw-px-10">
           <div class="tw-grid lg:tw-grid-cols-2">
-            <div class="tw-relative tw-pb-8 lg:tw-pb-[unset]"><img alt="intro image" loading="lazy" width="400" height="450" decoding="async" data-nimg="1" class="tw-relative tw-z-30 tw-mx-auto tw-rounded-md tw-bg-brandingGreen-400 tw-shadow-md tw-shadow-zinc-800/30 lg:tw-m-[unset]" style="color:transparent" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbite-into-no-bg.8b968f12.png&amp;w=828&amp;q=75">
+            <div class="tw-relative tw-pb-8 lg:tw-pb-[unset]"><img alt="intro image" loading="lazy" width="400" height="450" decoding="async" data-nimg="1" class="tw-relative tw-z-30 tw-mx-auto tw-rounded-md tw-bg-brandingGreen-400 tw-shadow-md tw-shadow-zinc-800/30 lg:tw-m-[unset]" style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/bite-into-no-bg.png">
               <div class="tw-absolute tw-left-[23px] tw-top-[23px] tw-z-20 tw-hidden tw-h-[450px] tw-w-[400px] tw-rounded-md tw-border-4 tw-border-brandingGreen-400 tw-drop-shadow-lg lg:tw-block"></div>
             </div>
             <div class="tw-space-y-2">
