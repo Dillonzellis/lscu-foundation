@@ -163,33 +163,33 @@
           </div>
         </div>
       </section>
-      <section class="img-collage tw-py-8 tw-bg-brandingblue-400">
-        <div class="tw-mx-auto tw-flex tw-w-full tw-max-w-[1500px] tw-flex-wrap tw-justify-center tw-py-8"><img alt="" loading="lazy" width="586" height="378" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 md:tw-rounded-tl-lg" style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/one.png"><img alt="" loading="lazy" width="594" height="394" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 " style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/two.png"><img alt="" loading="lazy" width="447" height="640" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 md:tw-rounded-tr-lg" style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/three.png"><img alt="" loading="lazy" width="1237" height="825" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 " style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/four.png"><img alt="" loading="lazy" width="800" height="600" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 " style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/five.png"><img alt="" loading="lazy" width="442" height="270" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 " style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/six.png"><img alt="" loading="lazy" width="435" height="277" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 md:tw-rounded-bl-lg" style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/seven.png"><img alt="" loading="lazy" width="471" height="273" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 " style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/eight.png"><img alt="" loading="lazy" width="469" height="278" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 md:tw-rounded-br-lg" style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/nine.png"></div>
+      <section class="img-collage tw-py-8">
+        <div class="tw-flex tw-flex-wrap tw-justify-center tw-bg-brandingBlue-400 tw-py-8 tw-shadow-lg tw-shadow-zinc-800/30"><img alt="" loading="lazy" width="586" height="378" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 md:tw-rounded-tl-lg" style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/one.png"><img alt="" loading="lazy" width="594" height="394" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 " style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/two.png"><img alt="" loading="lazy" width="447" height="640" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 md:tw-rounded-tr-lg" style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/three.png"><img alt="" loading="lazy" width="1237" height="825" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 " style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/four.png"><img alt="" loading="lazy" width="800" height="600" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 " style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/five.png"><img alt="" loading="lazy" width="442" height="270" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 " style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/six.png"><img alt="" loading="lazy" width="435" height="277" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 md:tw-rounded-bl-lg" style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/seven.png"><img alt="" loading="lazy" width="471" height="273" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 " style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/eight.png"><img alt="" loading="lazy" width="469" height="278" decoding="async" data-nimg="1" class="tw-w-full tw-max-w-[400px] tw-object-cover tw-shadow-lg tw-shadow-zinc-800/30 md:tw-rounded-br-lg" style="color:transparent" src="https://lscu.coop/foundation/bite-of-reality/imgs/nine.png"></div>
       </section>
       <section class="chapter tw-py-8">
         <div class="tw-w-full tw-mx-auto tw-max-w-[1100px] tw-px-10">
           <div class="tw-grid tw-items-center tw-gap-8 lg:tw-grid-cols-2 lg:tw-gap-12">
             <div style="">
-              <div class="tw-pb-4 tw-text-2xl tw-font-semibold tw-capitalize tw-underline tw-decoration-brandinggreen-400 md:tw-text-3xl" style="">volunteer training video</div>
-              <div class="tw-relative tw-w-full" style="padding-bottom: 56.25%;"><iframe class="tw-absolute tw-left-0 tw-top-0 tw-h-full tw-w-full tw-rounded-lg tw-shadow-lg tw-shadow-zinc-800/30" src="https://www.youtube.com/embed/pphq9k4xaku?si=hbwwgjumjqebfyq7" title="youtube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+              <div class="tw-pb-4 tw-text-2xl tw-font-semibold tw-capitalize tw-underline tw-decoration-brandingGreen-400 md:tw-text-3xl" style="">volunteer training video</div>
+              <div class="tw-relative tw-w-full" style="padding-bottom: 56.25%;"><iframe class="tw-absolute tw-left-0 tw-top-0 tw-h-full tw-w-full tw-rounded-lg tw-shadow-lg tw-shadow-zinc-800/30" src="https://www.youtube.com/embed/ppHQ9k4xAkU?si=hBWWGJumjQebFYq7" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
             </div>
             <div>
               <div class="tw-pb-8">
-                <div class="tw-py-4 tw-pl-4 tw-relative md:tw-px-4 md:tw-py-6 tw-mb-4 tw-rounded-md tw-font-medium tw-text-white tw-shadow-lg tw-shadow-zinc-800/30 before:tw-absolute before:tw-top-[10%] before:tw-z-[-10] before:tw-h-full before:tw-w-full before:tw-border-4 before:tw-border-brandinggreen-400 before:tw-content-[''] tw-bg-brandingpurple-400 tw-text-xl md:tw-text-2xl tw-w-full md:tw-mb-8">how can my chapter or credit union<!-- --> <span class="tw-font-bold tw-underline tw-decoration-brandinggreen-400">participate?</span></div>
-                <div class="tw-pb-1 tw-text-lg tw-font-medium">contact the southeastern credit union foundation, which will supply:</div>
+                <div class="tw-py-4 tw-pl-4 tw-relative md:tw-px-4 md:tw-py-6 tw-mb-4 tw-rounded-md tw-font-medium tw-text-white tw-shadow-lg tw-shadow-zinc-800/30 before:tw-absolute before:tw-top-[10%] before:tw-z-[-10] before:tw-h-full before:tw-w-full before:tw-border-4 before:tw-border-brandingGreen-400 before:tw-content-[''] tw-bg-brandingPurple-400 tw-text-xl md:tw-text-2xl tw-w-full md:tw-mb-8">How can my chapter or credit union<!-- --> <span class="tw-font-bold tw-underline tw-decoration-brandingGreen-400">participate?</span></div>
+                <div class="tw-pb-1 tw-text-lg tw-font-medium">Contact the Southeastern Credit Union Foundation, which will supply:</div>
                 <ul class="tw-list-inside tw-list-disc">
-                  <li class="tw-text-base">access to the bite of reality2 app</li>
-                  <li class="tw-text-base">training materials for volunteers</li>
+                  <li class="tw-text-base">Access to the Bite of Reality2 app</li>
+                  <li class="tw-text-base">Training materials for volunteers</li>
                 </ul>
               </div>
               <div class="tw-pb-8">
-                <div class="tw-py-4 tw-pl-4 tw-relative md:tw-px-4 md:tw-py-6 tw-mb-4 tw-rounded-md tw-font-medium tw-text-white tw-shadow-lg tw-shadow-zinc-800/30 before:tw-absolute before:tw-top-[10%] before:tw-z-[-10] before:tw-h-full before:tw-w-full before:tw-border-4 before:tw-border-brandinggreen-400 before:tw-content-[''] tw-bg-brandingpurple-400 tw-text-xl md:tw-text-2xl tw-w-full md:tw-mb-8">what does my chapter or credit union<!-- --> <span class="tw-font-bold tw-underline tw-decoration-brandinggreen-400">need</span> <!-- -->to put on a bite of reality event?</div>
+                <div class="tw-py-4 tw-pl-4 tw-relative md:tw-px-4 md:tw-py-6 tw-mb-4 tw-rounded-md tw-font-medium tw-text-white tw-shadow-lg tw-shadow-zinc-800/30 before:tw-absolute before:tw-top-[10%] before:tw-z-[-10] before:tw-h-full before:tw-w-full before:tw-border-4 before:tw-border-brandingGreen-400 before:tw-content-[''] tw-bg-brandingPurple-400 tw-text-xl md:tw-text-2xl tw-w-full md:tw-mb-8">What does my chapter or credit union<!-- --> <span class="tw-font-bold tw-underline tw-decoration-brandingGreen-400">need</span> <!-- -->to put on a Bite of Reality event?</div>
                 <ul class="tw-list-inside tw-list-disc">
                   <li class="tw-text-base">10 volunteer adults to play the role of various merchants (per 75 students)</li>
                   <li class="tw-text-base">1 hour of on-site preparation on the day of the event</li>
                   <li class="tw-text-base">1.5 hours for simulation and debrief</li>
                   <li class="tw-text-base">50+ teens (target is grades 8–12)</li>
-                  <li class="tw-text-base">a facilitator</li>
+                  <li class="tw-text-base">A facilitator</li>
                 </ul>
               </div>
             </div>
@@ -197,13 +197,13 @@
         </div>
       </section>
       <section class="resources tw-py-8 tw-pb-0">
-        <div class="tw-bg-brandingpurple-400 tw-py-8">
+        <div class="tw-bg-brandingPurple-400 tw-py-8">
           <div class="tw-w-full tw-mx-auto tw-max-w-[1100px] tw-px-10 tw-text-white">
-            <div class="tw-text-3xl tw-font-medium tw-underline tw-decoration-brandinggreen-400">event resources</div>
+            <div class="tw-text-3xl tw-font-medium tw-underline tw-decoration-brandingGreen-400">Event Resources</div>
             <ul class="tw-list-inside tw-list-disc tw-pt-4">
-              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandinggreen-400" href="https://lscu.coop/foundation/bite-of-reality/docs/facilitatorguide.pdf">facilitator guide</a></li>
-              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandinggreen-400" href="https://lscu.coop/foundation/bite-of-reality/docs/merchantsheets.pdf">merchant directions</a></li>
-              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandinggreen-400" href="https://lscu.coop/foundation/bite-of-reality/form.php">request event code</a></li>
+              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="https://lscu.coop/foundation/bite-of-reality/docs/facilitatorguide.pdf">Facilitator Guide</a></li>
+              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="https://lscu.coop/foundation/bite-of-reality/docs/merchantsheets.pdf">Merchant Directions</a></li>
+              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="https://lscu.coop/foundation/bite-of-reality/form.php">request event code</a></li>
             </ul>
           </div>
         </div>
