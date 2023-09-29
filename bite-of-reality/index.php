@@ -200,7 +200,11 @@
         <div class="tw-bg-brandingPurple-400 tw-py-8">
           <div class="tw-w-full tw-mx-auto tw-max-w-[1100px] tw-px-10 tw-text-white">
             <div class="tw-text-3xl tw-font-medium tw-underline tw-decoration-brandingGreen-400">Event Resources</div>
-<ul class="tw-list-inside tw-list-disc tw-pt-4"><li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="https://lscu.coop/foundation/bite-of-reality/docs/Bite-of-reality-flyer-nonstudents.pdf">App Download Instructions – STUDENT VERSION</a></li><li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="https://lscu.coop/foundation/bite-of-reality/docs/Bite-of-reality-flyer-students.pdf">App Download Instructions – NON-STUDENT VERSION</a></li><li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="https://lscu.coop/foundation/bite-of-reality/form.php">request event code</a></li></ul>
+            <ul class="tw-list-inside tw-list-disc tw-pt-4">
+              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="https://lscu.coop/foundation/bite-of-reality/docs/Bite-of-reality-flyer-students.pdf">App Download Instructions – STUDENT VERSION</a></li>
+              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="https://lscu.coop/foundation/bite-of-reality/docs/Bite-of-reality-flyer-nonstudents.pdf">App Download Instructions – NON-STUDENT VERSION</a></li>
+              <li class="tw-text-lg"><a class="tw-capitalize tw-transition hover:tw-text-brandingGreen-400" href="https://lscu.coop/foundation/bite-of-reality/form.php">request event code</a></li>
+            </ul>
           </div>
         </div>
       </section>
